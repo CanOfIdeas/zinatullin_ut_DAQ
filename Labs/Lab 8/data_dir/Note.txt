@@ -1,0 +1,4 @@
+Distance between camera and ball was ca 360mm
+H 5  -  16
+S 83 - 223
+V 62 - 255
